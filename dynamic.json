@@ -1,0 +1,37 @@
+{
+  "profile":{
+  "image":"images/img.jpeg",
+  "name":"N.SUSHMITHA",
+  "desig":"Student",
+  "mobile":"7032097263",
+  "email":"nsushmitha77@gmail.com"
+},
+"career":{
+  "info":"to work hard"
+},
+"education":
+  [
+    {
+  "qualification":"Intermediate",
+  "institute":"L.R.G Naidu jr college",
+  "Per":"96%",
+  "yop":"2017"
+},
+{
+  "qualification":"tenth class",
+  "institute":"L.R.G vidyalayam",
+  "Per":"98%",
+  "yop":"2015"
+}
+],
+"skills":[
+  {
+  "name":"webtechnologies",
+  "info":["html","css","js"]
+},
+{
+  "name":"database",
+  "info":["jdbc","firebase","sql"]
+}
+]
+}
